@@ -72,6 +72,33 @@ Kali Linux (192.168.1.102)
 
 ## 📸 Screenshots
 
+### 1. pfSense Dashboard
+![pfSense Dashboard](Screenshots/01-pfsense-dashboard.png)
+
+### 2. LAN Firewall Rules
+![LAN Firewall Rules](Screenshots/02-lan-firewall-rules.png)
+
+### 3. ICMP Block Rule Created
+![ICMP Block Rule](Screenshots/03-block-icmp-rule-created.png)
+
+### 4. Ping Blocked Test
+![Ping Blocked Test](Screenshots/04-ping-blocked-test.png)
+
+### 5. Firewall Logs Showing Blocked Packets
+![Firewall Logs](Screenshots/05-firewall-logs-blocked-packets.png)
+
+### 6. Ping Before Firewall Rule
+![Ping Before Firewall Rule](Screenshots/06-ping-before-firewall-rule.png)
+
+### 7. Destination Host Unreachable
+![Destination Host Unreachable](Screenshots/07-ping-to-unreachable-host.png)
+
+### 8. Nmap Scan Before SSH Block
+![Nmap Before SSH Block](Screenshots/08-nmap-port-scan-before-ssh-block.png)
+
+### 9. Nmap SSH Port Filtered
+![Nmap SSH Port Filtered](Screenshots/09-nmap-ssh-port-filtered.png)
+
 ## 💻 Skills Demonstrated
 
 - Firewall Configuration
