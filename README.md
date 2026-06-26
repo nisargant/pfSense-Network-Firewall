@@ -115,3 +115,21 @@ Kali Linux (192.168.1.102)
 - Create VLAN-based network segmentation.
 - Configure Intrusion Prevention System (IPS).
 - Implement advanced firewall policies.
+
+  ---
+
+# 👨‍💻 Author
+
+**Nisarga N T**
+
+Aspiring SOC Analyst | SIEM | Threat Detection | Incident Response
+
+**GitHub:** https://github.com/nisargant
+
+**LinkedIn:** https://linkedin.com/in/nisarga-n-t
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
